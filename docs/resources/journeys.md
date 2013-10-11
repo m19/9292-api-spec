@@ -33,7 +33,7 @@ Met de `journeys`-resource kun je een reis plannen.
 | **later** | Bevat een pad naar de `journeys`-resource die latere reismogelijkheden retourneert. |
 | **disturbances** | Bevat een array van `disturbance` objecten. |
 | **serviceMessages** | Onbekend. |
-| **nearbyAddresses** | Onbekend. |
+| **nearbyAddresses** | Onbekend. |asdfsdf
 
 ## Voorbeeld
 
